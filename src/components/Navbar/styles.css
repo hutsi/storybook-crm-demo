@@ -1,0 +1,11 @@
+.Navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #BFCCD6;
+}
+
+.Username {
+  margin-left: 10px;
+  margin-right: 10px;
+}

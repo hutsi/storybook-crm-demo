@@ -1,0 +1,17 @@
+.Card {
+  border-radius: 20px;
+  background-color: #EBF1F5;
+  max-width: 300px;
+}
+
+.Item + .Item {
+  margin-top: 10px;
+}
+
+.Label {
+  font-weight: bold;
+}
+
+.Children {
+  margin-left: 20px;
+}
