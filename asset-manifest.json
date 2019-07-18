@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/storybook-crm-demo/main.css",
+    "main.js": "/storybook-crm-demo/main.4977717712a28c0daf45.bundle.js",
+    "main.css.map": "/storybook-crm-demo/main.css.map",
+    "main.js.map": "/storybook-crm-demo/main.4977717712a28c0daf45.bundle.js.map",
+    "runtime~main.js": "/storybook-crm-demo/runtime~main.4977717712a28c0daf45.bundle.js",
+    "runtime~main.js.map": "/storybook-crm-demo/runtime~main.4977717712a28c0daf45.bundle.js.map",
+    "vendors~main.css": "/storybook-crm-demo/vendors~main.css",
+    "vendors~main.js": "/storybook-crm-demo/vendors~main.4977717712a28c0daf45.bundle.js",
+    "vendors~main.css.map": "/storybook-crm-demo/vendors~main.css.map",
+    "vendors~main.js.map": "/storybook-crm-demo/vendors~main.4977717712a28c0daf45.bundle.js.map",
+    "iframe.html": "/storybook-crm-demo/iframe.html",
+    "precache-manifest.325049349efa6c250edacef2fa050233.js": "/storybook-crm-demo/precache-manifest.325049349efa6c250edacef2fa050233.js",
+    "service-worker.js": "/storybook-crm-demo/service-worker.js",
+    "static/media/styles.css": "/storybook-crm-demo/static/media/icons-20.90247cfd.ttf"
+  }
+}
