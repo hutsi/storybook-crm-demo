@@ -5,3 +5,4 @@
 4. enjoy!
 
 ## Demo:
+Take a look at https://hutsi.github.io/storybook-crm-demo/
